@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>What Is React?</h1>
-<p>React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called ìcomponentsî.
+<p>React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called ‚Äúcomponents‚Äù.
 
 </p>
 <h2>Installing React js using Node Package Manager</h2>
@@ -10,9 +10,9 @@
 <ol>
 <li><a href="https://nodejs.org/en/">click here </a>to navigate to the Node.js homepage in a new tab.</li>
 
-<li>You should see links to download Node.js. Click on the download link of your choice. Follow the subsequent instructions to install Node.js and npm. If youíve already installed Node.js, thatís okay, do it anyway.</li>
+<li>You should see links to download Node.js. Click on the download link of your choice. Follow the subsequent instructions to install Node.js and npm. If you‚Äôve already installed Node.js, that‚Äôs okay, do it anyway.</li>
 </ol>
-<h3> Once youíve done all that, type below command into your terminal:</h3>
+<h3> Once you‚Äôve done all that, type below command into your terminal:</h3>
 <ul>
     <li>Type npm init in your command prompt: It will ask lot of questions regarding project and then it will create a package.json file </li>
     
@@ -30,9 +30,8 @@
 <h3>References</h3>
 <ul>
     <li><a href="https://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm#">Tutorial Point React Installation</a></li>
-
-     <li><a href="https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial">React Tutorial</a></li>
-     <li><a href="https://www.codecademy.com/articles/react-setup-i"></a>;</li>
+    <li><a href="https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial">React Tutorial></a></li>
+    <li><a href="https://www.codecademy.com/articles/react-setup-i"></a></li>
 </ul>
 
 </body>
