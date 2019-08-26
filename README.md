@@ -30,8 +30,8 @@
 <h3>References</h3>
 <ul>
     <li><a href="https://www.tutorialspoint.com/reactjs/reactjs_environment_setup.htm#">Tutorial Point React Installation</a></li>
-    <li><a href="https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial">React Tutorial></a></li>
-    <li><a href="https://www.codecademy.com/articles/react-setup-i"></a></li>
+    <li><a href="https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial">React Tutorial</a></li>
+    <li><a href="https://www.codecademy.com/articles/react-setup-i"></a> Code academy tutorial</li>
 </ul>
 
 </body>
