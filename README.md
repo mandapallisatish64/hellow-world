@@ -1,7 +1,7 @@
 <html>
 <body>
 <h1>What Is React?</h1>
-<p>React is a declarative,efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.
+<p>React is a declarative,efficient, and flexible JavaScript library for building user interfaces. It let you compose complex UIs from small and isolated pieces of code called “components”.
 
 </p>
 <h2>Installing React js using Node Package Manager</h2>
